@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi:wght@400;500;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Kaisei-HarunoUmi';
+    height: 3831px;
+    background-color: #F1EFE7;
+}
+
+.primario {
+    background-image: url(img/primario.png);
+    background-repeat: no-repeat;
+    height: 3831px;
+    width: 1440px;
+    align-items: center;
+    margin-left: 220px;
+}
+
+.filho {
+    background-color: rgba(15, 0, 0, 0.43);
+    height: 839px;
+}
+
+.logo {
+    color: #fff;
+    margin-left: 30px;
+    margin-bottom: -60px;
+    font-style: inherit;
+    font-size: 16px;
+}
+
+.menu ul {
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    padding-left: 815px;
+}
+
+.menu ul li {
+    list-style: none;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #fff;
+    list-style: none;
+}
+
+.principal {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 285px;
+    color: #fff;
+    font-size: 86px;
+}
+
+.informacao {
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+
+.titulo1 {
+    color: #0000;
+    font-size: 96px;
+    margin-left: 145px;
+    color: black;
+    margin-bottom: 6px;
+}
+
+.sub {
+    margin-left: 145px;
+    margin-bottom: 155px;
+}
+
+.coluna1 {
+    color: black;
+}
+
+.coluna2 p {
+    margin-left: 30px;
+}
+
+.fotos{
+    text-align: center;
+    font-size: 75px;
+}
+
+.fotos1 img{
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 110px;
+}
+
+.rodape1{
+    background-image: url(img/rodape.png);
+}
+.class{
+    background-color: rgba(15, 0, 0, 0.43);
+    height: 839px;
+}
+
+.rodape1 h1{
+    color: #fff;
+    text-align: center;
+    font-size: 86px;
+    margin-top: 70px;
+    padding-top: 340px;
+} 
+
+footer{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    margin-top: 55px;
+}
+
+h2{
+    font-size: 35px;
+}
